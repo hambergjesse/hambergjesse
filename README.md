@@ -3,23 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Student;Esports+Fanatic;Graphic+Designer;Weight+Lifter;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=hambergjesse&label=Profile%20views&color=0e75b6&style=plastic" alt="hambergjesse" /> 
-	<a href = "https://commits.top/finland.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
-
-
 ## :sassy_man:  About me
 - :student: I am a `Student` at StadinAO Digital Talents Academy
-- :technologist: I love all things tech and assembling desktops etc
+- :technologist: I love all things related to tech and the digital world
 - :computer: I am an ex esports athlete mainly with a long history of `shooters`
-- :thinking: I’m currently open for: `Internships` or new `job opportunities` - [MY RESUME](https://drive.google.com/file/d/1olGP6OWhc-gLXaaCXekFOc628RxuRLRl/view?usp=sharing).
-- :nerd_face: Always `learning new things` and `living life`
+- :thinking: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1olGP6OWhc-gLXaaCXekFOc628RxuRLRl/view?usp=sharing)
+- :nerd_face: Always `learning new things` and open to `new experiences`
 
 <br>
 
