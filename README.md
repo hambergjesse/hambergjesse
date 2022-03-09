@@ -114,7 +114,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hambergjesse&layout=compact&theme=algolia" alt="hambergjesse" /></a> </p>
 
-/*-----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)*/
+Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 10/02/2022
+Last Edited on: 09/03/2022
