@@ -5,9 +5,8 @@
 
 ## :sassy_man:  About me
 - :student: I am a `Student` at StadinAO Digital Talents Academy
-- :technologist: I love all things related to tech and the digital world
-- :computer: I am an ex esports athlete mainly with a long history of `shooters`
-- :thinking: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1olGP6OWhc-gLXaaCXekFOc628RxuRLRl/view?usp=sharing)
+- :desktop_computer: I love all things related to tech and the digital world
+- :eyes: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1olGP6OWhc-gLXaaCXekFOc628RxuRLRl/view?usp=sharing)
 - :nerd_face: Always `learning new things` and open to `new experiences`
 
 <br>
@@ -73,6 +72,26 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+
+### 👉 Graphic Design & Video Editing
+ - :black_nib: Proficient in the Adobe Creative Suite (Photoshop, Illustrator etc)
+ - :art: Experience in branding, social media, livestreaming, advertising and motion graphics
+ - :film_strip: Comfortable with video editing software such as Sony Vegas & Adobe Premiere
+
+### 👉 Social Media
+ - :chess_pawn: Knowledge of SM strategies + algorithms and how to grow an audience
+ - :jigsaw: Ability to efficiently and coherently run multiple social media pages
+ - :firecracker: Up to date with the latest trends and social media mediums
+ - :camera_flash: Comfortable with both static and motion based posts
+
+### 👉 Linguistics
+ - :finland: Born and raised in Finland since 1999 (native tongue)
+ - :uk: Fluent in English since 2010, been perfecting it ever since
+ - :de: Lived in Germany for 2 years (beginner+ level understanding)
+
+### 👉 Random Skills
+ - :keyboard: Can type at a consistent pace of 100 words per minute
+ - :computer_mouse: World record holder in aiming challenges using keyboard + mouse
 
 <br/>
 
