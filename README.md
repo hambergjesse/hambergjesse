@@ -11,12 +11,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hambergjesse&theme=algolia" alt="hambergjesse" /></p>
-
-<br>
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Interact with me
 <p align="center">
 	<a href="mailto:hambergjesse@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -94,33 +88,6 @@
  - :computer_mouse: World record holder in aiming challenges using keyboard + mouse
 
 <br/>
-
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hambergjesse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hambergjesse&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hambergjesse&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hambergjesse" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="hambergjesse's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hambergjesse&custom_title=hambergjesse's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hambergjesse&layout=compact&theme=algolia" alt="hambergjesse" /></a> </p>
 
 Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
