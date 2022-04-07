@@ -4,7 +4,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :student: I am a `Student` at StadinAO [DigiTalents Academy](https://github.com/digitalents-academy)
+- :student: I am a `Student` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
 - :desktop_computer: I love all things related to tech and the digital world
 - :eyes: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1olGP6OWhc-gLXaaCXekFOc628RxuRLRl/view?usp=sharing)
 - :nerd_face: Always `learning new things` and open to `new experiences`
