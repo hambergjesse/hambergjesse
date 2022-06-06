@@ -11,7 +11,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Interact with me
+## Interact with me
 <p align="center">
 	<a href="mailto:hambergjesse@gmail.com"><img img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/></a>
 	&emsp;
