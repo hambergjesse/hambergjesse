@@ -40,6 +40,10 @@
 
 <p align="center"> 
   &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=20232A&logo=React&logoColor=00ffff&label=">
+   </a>
+&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
    </a>
