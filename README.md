@@ -41,6 +41,10 @@
 <p align="center"> 
   &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
+     <img alt="SASS" src="https://img.shields.io/static/v1?style=for-the-badge&message=SASS&color=E37383&logo=SASS&logoColor=00ffff&label=">
+   </a>
+   &emsp;
+  <a href="https://sass-lang.com/" target="_blank"> 
      <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=20232A&logo=React&logoColor=00ffff&label=">
    </a>
 &emsp;
