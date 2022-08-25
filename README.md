@@ -25,6 +25,10 @@
 
 ### 👉 Frontend Development
 <p align="center"> 
+&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
+   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
@@ -33,22 +37,30 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
   </a> 
+  &emsp;
+  <a href="https://sass-lang.com/" target="_blank"> 
+     <img alt="SASS" src="https://img.shields.io/static/v1?style=for-the-badge&message=SASS&color=E37383&logo=SASS&logoColor=00ffff&label=">
+   </a>
 </p>
 
 ### 👉 Currently learning
 
 <p align="center"> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
-     <img alt="SASS" src="https://img.shields.io/static/v1?style=for-the-badge&message=SASS&color=E37383&logo=SASS&logoColor=00ffff&label=">
-   </a>
    &emsp;
-  <a href="https://sass-lang.com/" target="_blank"> 
+  <a href="https://reactjs.org/" target="_blank"> 
      <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=20232A&logo=React&logoColor=00ffff&label=">
    </a>
-&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
+   &emsp;
+  <a href="https://nodejs.org/en/" target="_blank"> 
+     <img alt="NodeJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.JS&color=222222&logo=Node.JS&logoColor=4DB33D&label=">
+   </a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank"> 
+     <img alt="ExpressJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express.JS&color=222222&logo=Express&logoColor=00ffff&label=">
+   </a>
+   &emsp;
+  <a href="https://www.mongodb.com/" target="_blank"> 
+     <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=20232A&logo=MongoDB&logoColor=3FA037&label=">
    </a>
 </p>
 
@@ -61,6 +73,8 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label="></a>
+    &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=EF5B25&logo=Postman&logoColor=FFFFFF&label="></a>
 </p>
 
  ### 👉 IDEs
