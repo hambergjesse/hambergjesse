@@ -48,7 +48,7 @@
 <p align="center"> 
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=20232A&logo=React&logoColor=00ffff&label=">
+     <img alt="ReactJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=React.JS&color=20232A&logo=React&logoColor=00ffff&label=">
    </a>
    &emsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
