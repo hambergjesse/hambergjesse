@@ -98,21 +98,6 @@
  - :art: Experience in branding, social media, livestreaming, advertising and motion graphics
  - :film_strip: Comfortable with video editing software such as Sony Vegas & Adobe Premiere
 
-### 👉 Social Media
- - :chess_pawn: Knowledge of SM strategies + algorithms and how to grow an audience
- - :jigsaw: Ability to efficiently and coherently run multiple social media pages
- - :firecracker: Up to date with the latest trends and social media mediums
- - :camera_flash: Comfortable with both static and motion based posts
-
-### 👉 Linguistics
- - :finland: Born and raised in Finland since 1999 (native tongue)
- - :uk: Fluent in English since 2010, been perfecting it ever since
- - :de: Lived in Germany for 2 years (beginner+ level understanding)
-
-### 👉 Random Skills
- - :keyboard: Can type at a consistent pace of 100 words per minute
- - :computer_mouse: World record holder in aiming challenges using keyboard + mouse
-
 <br/>
 
 Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
