@@ -4,8 +4,8 @@
 </p>
 
 ## :sassy_man:  About me
-- :student: I am a `Web Dev Intern / Student` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
-- :eyes: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1bYvMzoUJ3F0sVI9PfIETpACxnXr6C4_a/view?usp=sharing)
+- :student: I am a `Web Development Intern / Designer` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
+- :eyes: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1LXZ_x1cwdsDkj7ttwADafMKHAp_9HSSR/view?usp=sharing)
 - :nerd_face: Always `learning new things` and open to `new experiences`
 
 <br>
