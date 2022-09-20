@@ -4,7 +4,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :student: I am a `Web Development Intern / Designer` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
+- :student: I am a `Web Development Intern` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
 - :eyes: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/1LXZ_x1cwdsDkj7ttwADafMKHAp_9HSSR/view?usp=sharing)
 - :nerd_face: Always `learning new things` and open to `new experiences`
 
@@ -26,6 +26,10 @@
 ### 👉 Frontend Development
 <p align="center"> 
 &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+     <img alt="ReactJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=React.JS&color=20232A&logo=React&logoColor=00ffff&label=">
+   </a>
+   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
    </a>
@@ -46,10 +50,6 @@
 ### 👉 Currently learning
 
 <p align="center"> 
-   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
-     <img alt="ReactJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=React.JS&color=20232A&logo=React&logoColor=00ffff&label=">
-   </a>
    &emsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
      <img alt="NodeJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.JS&color=222222&logo=Node.JS&logoColor=4DB33D&label=">
@@ -102,4 +102,4 @@
 
 Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 25/08/2022
+Last Edited on: 20/09/2022
