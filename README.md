@@ -5,7 +5,7 @@
 
 ## :sassy_man:  About me
 - :student: I am a `Web Development Intern` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
-- :eyes: I’m currently open for: `Internships` - [MY RESUME](https://drive.google.com/file/d/19ss-86Egf04LYXhlcPlmyhq4W4RfLlwz/view?usp=sharing)
+- :eyes: I’m currently open for: `Internships` & `Full-Time Positions`
 - :nerd_face: Always `learning new things` and open to `new experiences`
 
 <br>
