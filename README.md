@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Jesse Hamberg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Student;Esports+Fanatic;Graphic+Designer;Weight+Lifter;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Esports+Fanatic;Web+Designer;Weight+Lifter;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
-- :student: I am a `Web Development Intern` at StadinAO [Digitalents Academy](https://github.com/digitalents-academy)
-- :eyes: I’m currently open for: `Internships` & `Full-Time Positions`
+- :student: I am a `Full Stack Developer` at StadinAO [Virittämö Helsinki](https://virittamohelsinki.fi/)
+- :eyes: I’m currently open for: `Internships/Academy` & `Full-Time Positions`
 - :nerd_face: Always `learning new things` and open to `new experiences`
 
 <br>
@@ -102,4 +102,4 @@
 
 Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 01/10/2022
+Last Edited on: 07/11/2022
