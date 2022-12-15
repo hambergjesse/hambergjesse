@@ -81,13 +81,15 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="></a>
+    <a href="https://google.com/"><img alt="Google" src="https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=222222&logo=Google&logoColor=F4B400&label="></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="></a>
+    <a href=""https://git-scm.com/><img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label="></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="></a>
+  &emsp;
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label="></a>
     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=EF5B25&logo=Postman&logoColor=FFFFFF&label="></a>
+    <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=EF5B25&logo=Postman&logoColor=FFFFFF&label="></a>
 </p>
 
  ### 👉 IDEs
