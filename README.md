@@ -47,7 +47,7 @@
    </a>
 </p>
 
-### 👉 Currently learning
+### 👉 Backend Development
 
 <p align="center"> 
    &emsp;
@@ -61,6 +61,19 @@
    &emsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
      <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=20232A&logo=MongoDB&logoColor=3FA037&label=">
+   </a>
+</p>
+
+### 👉 Currently learning
+
+<p align="center"> 
+   &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=typescript&logoColor=007acc&label=">
+   </a>
+   &emsp;
+  <a href=""https://postcss.org/ target="_blank"> 
+     <img alt="PostCSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=postcss&logoColor=FFFFFF&label=">
    </a>
 </p>
 
@@ -102,4 +115,4 @@
 
 Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 07/11/2022
+Last Edited on: 15/12/2022
