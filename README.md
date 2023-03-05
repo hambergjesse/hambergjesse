@@ -1,30 +1,34 @@
-<h1 align="center">Hi , I'm Jesse Hamberg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Esports+Fanatic;Web+Designer;Weight+Lifter;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-## :sassy_man:  About me
-- :student: I am a `Full Stack Developer` at StadinAO [Virittämö Helsinki](https://virittamohelsinki.fi/)
-- :eyes: I’m currently open for: `Internships/Academy` & `Full-Time Positions`
-- :nerd_face: Always `learning new things` and open to `new experiences`
+<img src="https://i.imgur.com/iDpGcPy.png" width="100%">
 
 <br>
 
-## Interact with me
-<p align="center">
+## 😊 About me
+
+- :student: I'm working as a `Full Stack Developer` at StadinAO's [Virittämö Helsinki](https://virittamohelsinki.fi/)
+- :eyes: I’m currently open to any new `Full-Time` developer positions
+- :nerd_face: Focusing on `Self-Improvement` and playing `Competitive Games`
+
+<p align="">
 	<a href="mailto:hambergjesse@gmail.com"><img img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/></a>
-	&emsp;
-	<a href="https://github.com/hambergjesse"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/></a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/hambergjesse/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
 	&emsp;
 	<a href="https://www.instagram.com/hambergjesse/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram"/></a>
 </p>
 
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hambergjesse&theme=zenburn)
+
+<br>
+
 ## 🛠️ My Skills
 
+<br>
+
 ### 👉 Frontend Development
-<p align="center"> 
+
+<p align=""> 
 &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
      <img alt="ReactJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=React.JS&color=20232A&logo=React&logoColor=00ffff&label=">
@@ -49,7 +53,7 @@
 
 ### 👉 Backend Development
 
-<p align="center"> 
+<p align=""> 
    &emsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
      <img alt="NodeJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.JS&color=222222&logo=Node.JS&logoColor=4DB33D&label=">
@@ -66,7 +70,7 @@
 
 ### 👉 Currently learning
 
-<p align="center"> 
+<p align=""> 
    &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=typescript&logoColor=007acc&label=">
@@ -77,9 +81,9 @@
    </a>
 </p>
 
- ### 👉 Software & Tools
- 
-<p align="center">
+### 👉 Software & Tools
+
+<p align="">
   &emsp;
     <a href="https://google.com/"><img alt="Google" src="https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=222222&logo=Google&logoColor=F4B400&label="></a>
   &emsp;
@@ -92,29 +96,15 @@
     <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=EF5B25&logo=Postman&logoColor=FFFFFF&label="></a>
 </p>
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="></a>
-&emsp;
-<a href="#"><img alt="Notepad++" src="https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="></a>
-</p>
-
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label="></a>
-</p>
-
 ### 👉 Graphic Design & Video Editing
- - :black_nib: Proficient in the Adobe Creative Suite (Photoshop, Illustrator etc)
- - :art: Experience in branding, social media, livestreaming, advertising and motion graphics
- - :film_strip: Comfortable with video editing software such as Sony Vegas & Adobe Premiere
+
+- :black_nib: Proficient in the Adobe Creative Suite (Photoshop, Illustrator etc)
+- :art: Experience in branding, social media, livestreaming, advertising and motion graphics
+- :film_strip: Comfortable with video editing software such as Sony Vegas & Adobe Premiere
 
 <br/>
 
-Template Credits: [7oSkaaa](https://github.com/7oSkaaa)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hambergjesse&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hambergjesse&theme=zenburn)
 
-Last Edited on: 15/12/2022
+Last Edited on: 05/03/2023
