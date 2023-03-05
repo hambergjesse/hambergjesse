@@ -8,6 +8,8 @@
 - :eyes: I’m currently open to any new `Full-Time` developer positions
 - :nerd_face: Focusing on `Self-Improvement` and playing `Competitive Games`
 
+<br>
+
 <p align="">
 	<a href="mailto:hambergjesse@gmail.com"><img img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/></a>
 	&emsp;
@@ -18,7 +20,7 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hambergjesse&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hambergjesse&theme=transparent)
 
 <br>
 
@@ -104,7 +106,6 @@
 
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hambergjesse&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hambergjesse&theme=zenburn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hambergjesse&show_icons=true&theme=transparent)](https://github.com/hambergjesse/github-readme-stats)
 
 Last Edited on: 05/03/2023
