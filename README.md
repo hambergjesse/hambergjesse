@@ -20,7 +20,7 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hambergjesse&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hambergjesse&theme=github_dark)
 
 <br>
 
@@ -106,6 +106,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hambergjesse&show_icons=true&theme=transparent)](https://github.com/hambergjesse/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hambergjesse&show_icons=true&theme=github_dark)](https://github.com/hambergjesse/github-readme-stats)
 
 Last Edited on: 05/03/2023
