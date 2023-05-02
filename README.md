@@ -39,6 +39,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
    </a>
+	   &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=typescript&logoColor=007acc&label=">
+   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
@@ -73,10 +77,6 @@
 ### 👉 Currently learning
 
 <p align=""> 
-   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=typescript&logoColor=007acc&label=">
-   </a>
    &emsp;
   <a href=""https://postcss.org/ target="_blank"> 
      <img alt="PostCSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=postcss&logoColor=FFFFFF&label=">
