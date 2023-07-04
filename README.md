@@ -4,7 +4,7 @@
 
 ## 😊 About me
 
-- :student: I'm working as a `Full Stack Developer` at StadinAO's [Virittämö Helsinki](https://virittamohelsinki.fi/)
+- :student: I'm working as a `Junior Full Stack Developer` at StadinAO's [Virittämö Helsinki](https://virittamohelsinki.fi/)
 - :eyes: I’m currently open to any new `Full-Time` developer positions
 - :nerd_face: Focusing on `Self-Improvement` and playing `Competitive Games`
 
