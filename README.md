@@ -6,7 +6,7 @@
 
 - :student: I'm working as a `Full-Stack Developer` at [unemployed](https://www.linkedin.com/in/hambergjesse/)
 - :eyes: I’m currently open to any new `Full-Time` developer positions
-- :nerd_face: Focusing on `Self-Improvement` and playing `Creative ventures`
+- :nerd_face: Focusing on `Self-Improvement` and misc. `Creative Ventures`
 
 <br>
 
