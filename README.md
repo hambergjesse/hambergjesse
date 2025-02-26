@@ -1,23 +1,46 @@
-<img src="https://i.imgur.com/Kt5d1Ye.jpg" width="100%">
+# 👋 Hi, I'm Jesse Hamberg
 
-<br>
+![Profile Banner](https://i.imgur.com/Kt5d1Ye.jpg)
 
-## 😊 About me
+## 🌍 About Me
 
-- :student: I'm working as a `Full-Stack Developer` at [unemployed](https://www.linkedin.com/in/hambergjesse/)
-- :eyes: I’m currently open to any new `Full-Time` developer positions
-- :nerd_face: Focusing on `Self-Improvement` and misc. `Creative Ventures`
+I'm a full-stack developer based in Helsinki, Finland, with a passion for coding and gaming. I specialize in creating dynamic web applications and engaging content.
 
-<br>
+- 📧 [Email me](mailto:hambergjesse@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hambergjesse/)
+- 🐙 [GitHub](https://github.com/hambergjesse)
 
-<p align="">
-	<a href="mailto:hambergjesse@gmail.com"><img img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/></a>
-	&emsp;
-	<a href="https://www.linkedin.com/in/hambergjesse/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
-	&emsp;
-	<a href="https://www.instagram.com/hambergjesse/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram"/></a>
-</p>
+## 💼 Technical Skills
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hambergjesse&layout=compact&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hambergjesse&theme=github_dark)
+- **Programming Languages:** React.js, JavaScript, TypeScript, Python, HTML5, CSS3, SCSS, Node.js, SQL
+- **Frameworks & Libraries:** Flask, Express.js, Django, Django REST Framework, MongoDB
+- **Tools & Technologies:** Git, REST APIs, AI-system integrations (ChatGPT, Claude, Gemini), PostgreSQL, Celery, Redis
+
+## 🚀 Projects
+
+- **[CSFLOAT Deals Twitter Bot](https://github.com/hambergjesse/cs2-best-deal-tweeter):** Automates fetching and tweeting the best daily deals for Counter-Strike 2 (CS2) items using the Twitter API, with modules for deal fetching and API interaction.
+- **[OnlyWeights App](https://github.com/hambergjesse/only-weights-app):** Your ultimate gym companion app built with React.js and TypeScript for the front-end, and Node.js, Express.js, and MongoDB for the back-end, featuring JWT authentication and bcrypt for secure password handling.
+- **[HLTV Match Predictor](https://github.com/hambergjesse/hltv-match-predictor):** A Node.js app that predicts CS2 match winners based on team rankings and player stats, utilizing the HLTV API for data retrieval and strength comparison.
+- **[TaskMaster](https://github.com/hambergjesse/task-manager-app):** A modern full-stack task management app built with Django and React.
+- **[RAT Link Platform](https://github.com/hambergjesse/rat-link-platform):** A personalized link-sharing platform with Twitter API authentication and a JavaScript-based backend and frontend.
+
+## 🎮 Competitive Gaming Achievements
+
+- Faceit Level 10+ in Counter-Strike (9+ years)
+- Grandmaster S2 in Overwatch
+- Royalty in H1Z1
+- Immortal in Valorant
+- Diamond in League of Legends
+- Grandmaster in Marvel Rivals
+- Apex Predator in Apex Legends
+- Former world record holder in AIMLABS aim scenarios on mouse
+
+## 📈 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out via email or connect with me on LinkedIn!
+
+---
+
+Thank you for visiting my profile! 🚀
