@@ -4,7 +4,7 @@
 
 ## 🌍 About Me
 
-I'm a full-stack developer based in Helsinki, Finland, with a passion for coding and gaming. I specialize in creating dynamic web applications and engaging content.
+I'm a full-stack developer based in Helsinki, Finland, with a passion for design and gaming. I specialize in creating dynamic web applications and engaging content.
 
 - 📧 [Email me](mailto:hambergjesse@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hambergjesse/)
@@ -14,9 +14,11 @@ I'm a full-stack developer based in Helsinki, Finland, with a passion for coding
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hambergjesse&layout=compact&theme=dark)
 
-- **Programming Languages:** React.js, JavaScript, TypeScript, Python, HTML5, CSS3, SCSS, Node.js, SQL
-- **Frameworks & Libraries:** Flask, Express.js, Django, Django REST Framework, MongoDB
-- **Tools & Technologies:** Git, REST APIs, AI-system integrations (ChatGPT, Claude, Gemini), PostgreSQL, Celery, Redis
+- **Front-End:** React.js, Vue.js, Next.js, JavaScript, TypeScript, HTML5, SCSS, Tailwind CSS
+- **Back-End:** Node.js, Express.js, Python (Django, Flask), GraphQL, REST APIs, MongoDB, SQL, Lua, SQF
+- **DevOps & Tools:** Git, GitHub Actions (CI/CD), Docker, ESLint, Unit Testing (Jest), Agile/Scrum
+- **Design & Collaboration:** Figma, Adobe Creative Cloud, UX/UI Principles, Canva
+- **Additional Technologies:** Windows Server, Ubuntu, Discord & Teamspeak API Integrations, AI Tools (ChatGPT/OpenAI, Claude/Anthropic, Gemini, Cursor, Grok)
 
 ## 🚀 Projects
 
